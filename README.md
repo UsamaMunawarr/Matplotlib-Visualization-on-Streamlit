@@ -106,7 +106,6 @@ It integrates **Matplotlib**, **Plotly**, **GeoPandas**, and **3D visualization*
 ### 🖼️ Screenshots
 
 ![Adidas Dashboard Screenshot](images/v1.PNG)
-![Adidas Dashboard Screenshot](images/v2.PNG)
 ![Adidas Dashboard Screenshot](images/v3.PNG)
 ![Adidas Dashboard Screenshot](images/v4.PNG)
 ![Adidas Dashboard Screenshot](images/v5.PNG)
