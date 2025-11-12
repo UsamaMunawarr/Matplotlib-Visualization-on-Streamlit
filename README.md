@@ -5,6 +5,13 @@
 
 ## 📊 Adidas Interactive Visualization Dashboard
 
+
+## 🎥 Demo
+
+Here’s a quick look at the system in action 👇
+
+![Demo](visualization.gif)
+
 ### 🌟 Overview
 
 This **Streamlit-based data visualization app** provides a visually appealing and interactive interface for exploring **Adidas sales data** through multiple advanced plots and dashboards.
